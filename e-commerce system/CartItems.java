@@ -12,8 +12,5 @@ public class CartItems {
     public double getOrderedQuantity() {
         return orderedQuantity;
     }
-    
-    
-
-    
+  
 }

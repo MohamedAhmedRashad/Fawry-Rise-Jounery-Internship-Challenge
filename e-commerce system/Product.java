@@ -43,10 +43,6 @@ public class Product {
         return "Product [name=" + name + ", price=" + price + ", quantity=" + quantity + ", expired=" + expired
                 + ", weight=" + weight + ", shipping=" + shipping + "]";
     }
-
     
-
-
-
 }
 

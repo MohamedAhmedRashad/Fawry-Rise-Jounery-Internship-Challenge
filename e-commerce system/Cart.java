@@ -14,11 +14,7 @@ public class Cart {
         else {
              System.out.println("Not enough quantity for: " + product.name);
         }
-    }
-
-    
- 
-         
+    }    
 }
 
 
